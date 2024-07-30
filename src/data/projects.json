@@ -1,0 +1,26 @@
+[
+    {
+      "title": "Food Ordering Website",
+     
+      "description": "Developed  using MERN Stack.",
+      "skills": ["React", "Express", "Node","MongoDb"],
+      "demo": "https://github.com/nithisha12cse/Food-Ordering-Website",
+      "source": "https://github.com/nithisha12cse/Food-Ordering-Website"
+    },
+    {
+      "title": "Cryto Currency Tracker",
+     
+      "description": "Developed a crypto currency tracker website for tracking the live prices and market cap of various crypto currency coins",
+      "skills": ["React"],
+      "demo": "http://nithisha-crypto-currency-tracker.netlify.app/",
+      "source": "https://github.com/nithisha12cse/CryptoCurrencyTracker"
+    },
+    {
+      "title": "Dish Discovery",
+      
+      "description": "This project made to access the recipe of dishes according to the user preferences",
+      "skills": ["HTML", "CSS", "JS"],
+      "demo": "http://nithisha-dish-discovery.netlify.app/",
+      "source": "https://github.com/nithisha12cse/Dish-Discovery-"
+    }
+  ]
